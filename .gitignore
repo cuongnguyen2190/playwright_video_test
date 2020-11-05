@@ -1,3 +1,5 @@
 .idea
 .env
 **/*.webm
+.DS_Store
+__pycache__/
